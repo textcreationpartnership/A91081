@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposalls concerning the chancery. VVherein is set forth the desires of divers well-affected-persons, for the regulating of the high-court of Chancery, and the proceedings there; and abolishing of severall fees, offices and officers, thereunto belonging. Tendred to the consideration of the honourable committee for regulating courts of justice, and all others whom it may concern. And published to the view of the nation; whereby every well-meaning man to the publique may joyn, in all lawfull wayes, for obteyning a just settlement and regulation of the said court. With a very usefull table thereto annexed.</title>
+         </titleStmt>
+         <extent>Approx. 78KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91081</idno><idno type="EEBO-CITATION">99872251</idno>
+  <idno type="VID">165545</idno>
+  <idno type="EEBO-PROQUEST">2264189915</idno>
+  
+            <idno type="STC">Wing P3718</idno>
+            <idno type="STC">Thomason E593_19</idno>
+            <idno type="STC">ESTC R30119</idno>
+            <idno type="PROQUEST">99872251</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872251e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165545)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 91:E593[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposalls concerning the chancery. VVherein is set forth the desires of divers well-affected-persons, for the regulating of the high-court of Chancery, and the proceedings there; and abolishing of severall fees, offices and officers, thereunto belonging. Tendred to the consideration of the honourable committee for regulating courts of justice, and all others whom it may concern. And published to the view of the nation; whereby every well-meaning man to the publique may joyn, in all lawfull wayes, for obteyning a just settlement and regulation of the said court. With a very usefull table thereto annexed.</title>
+               </titleStmt>
+               <extent>[2], 27, [1] p., 1 folded sheet.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Ellis, and are to bee sold by George Badger, at his shop in St. Dunstons Church-yard in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>An. Dom. 1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 21 1649"; the imprint date has been crossed out.</note>
+                  <note>Reproductions of the originals in the British Library (Thomason Tracts) and the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Equity pleading and procedure --  England --  Early works to 1800.</term>
+               <term type="topical_term">Civil procedure --  England --  Early works to 1800.</term>
+               <term type="topical_term">Procedure (Law) --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposals">
+            <pb facs="tcp:165545:1"/>
+            <head>Proposalls concerning the CHANCERY.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S God doth dispose his Government by <hi>Justice</hi> and <hi>Mercy</hi> whereof notwithstan<g ref="char:EOLhyphen"/>ding <hi>Mercy</hi> hath the supreme place in the Lords Tabernacle, as that which was put above upon the <hi>Arke,</hi> wherein were the two Tables of Stone, in which the <hi>Law</hi> was written; To which Saint <hi>James</hi> allu<g ref="char:EOLhyphen"/>ding [<hi>Jam.</hi> 2.13.] saith, <hi>That Mercy triumpheth over Judgement:</hi> So the Princes of this Land, in imi<g ref="char:EOLhyphen"/>tation of that Heavenly representation have appointed two su<g ref="char:EOLhyphen"/>preme States of Government; the one of <hi>Justice,</hi> wherein no<g ref="char:EOLhyphen"/>thing but the strict Letter of the Law is observed; the other of <hi>Mercy,</hi> wherein the rigour of the Law is tempered with the sweetnesse of <hi>Equity,</hi> which is nothing else but <hi>Mercy</hi> qualify<g ref="char:EOLhyphen"/>ing the sharpnesse of <hi>Justice, Nam ipse enim Leges cupiunt ut jur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> regantur, id est, ut illi facili ac benigna interpretatione te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>perentur.</hi>
+            </p>
+            <p>The <hi>Chauncery</hi> is of such Antiquity, that it hath <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e time out of memory of Man, and of that continuance, that its pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>scripti<g ref="char:EOLhyphen"/>on is a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ancient as the Realme, which <hi>Custome</hi> is of so high nature and authority, it cannot bee altered or changed without the Authority of a Parliament, being next in preheminency and power
+<pb n="2" facs="tcp:165545:2"/> unto it, and is called, <hi>Officina Justitiae &amp; Veritatis:</hi> and is of that use to the Common-wealth for discovery of Fraud, Circum<g ref="char:EOLhyphen"/>vention, breach of Trust, Secreting and Concealing of Estates, Evidences, Writings; for preservation of the Testimony of aged Witnesses; For regulating and restrayning the rigour and strict<g ref="char:EOLhyphen"/>nesse of the Common-Law, and for supplie of Reliefe in a just and equitable way, wherein the Common-Law is deficient, and for divers other good ends, publique and generall Purposes and Advantages to the Re-publique, that the Common-wealth can<g ref="char:EOLhyphen"/>not well su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sist without it.</p>
+            <p>But the <hi>Court,</hi> and the end for which it was originally Esta<g ref="char:EOLhyphen"/>blished, is so corrupted and abused, by multiplicity of Offices and Officers, the great and vast summes of Money given for Pla<g ref="char:EOLhyphen"/>ces and Offices, contrary to the Statute of 2. <hi>Ed.</hi> 6. The exa<g ref="char:EOLhyphen"/>ctions of great Fees, and the great delaies and obstructions of the ordinary course of proceedings, principally by the sale of Of<g ref="char:EOLhyphen"/>fices <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Places, supplied by corrupt and ignorant Ministers and Officers; that by length of time, and want of redresse, the <hi>Chan<g ref="char:EOLhyphen"/>cery</hi> is grown so insupportable to the Common-wealth, so bur<g ref="char:EOLhyphen"/>thensome to the free-born Subjects of this Realme, and so disadvantageous to the true labourers therein; that the Subject becomes weary of it, and inferiour Clarks and Officers, for want of common-right in a due returne of their unwearied paines (the fruit thereof being reaped by those <hi>Droanes</hi> who pur<g ref="char:EOLhyphen"/>chase their labours, and their owne ease and advantage) that such painfull industrious men are discouraged to continue their service and attendance, and this Court of <hi>Chancery</hi> which was so anci<g ref="char:EOLhyphen"/>ently famous, and erected to so good an end, is like to become a meere <hi>Monopolie</hi> to cozen the Subjects of their Monies.</p>
+            <p>And for as much as in the Reigne of the Kings Majesty, and severall Kings before, and even at this present time of Parliament and Reformation, those that were formerly Courtiers or Favo<g ref="char:EOLhyphen"/>rites about the King, and now such as are Friends or Favorites to the Parliament, either by favour or purchase, have gotten into their hands all the best and chiefest Places and Offices of Gaines,
+<pb n="3" facs="tcp:165545:2"/> Trust, Knowledge and Experience in the said Court of <hi>Chancery;</hi> though very unskilfull, and every way uncapable thereof, to the great hurt and prejudice of the Commonwealth and the free-born People of this Nation, and to the great wrong of those that have beene bred up and continued all their daies, from their very Infancy in such Offices and Places, and thereby attained to such Knowledge, Learning and Experience in the severall Conditions and Places thereof, as they were only capable of such Imploy<g ref="char:EOLhyphen"/>ments and Places that were wrongfully purchased by, or unde<g ref="char:EOLhyphen"/>servedly bestowed on others; which is contrary to the common-Right and Freedom of free-born Subjects, and tends to the great discouragement of all laborious and deserving men.</p>
+            <p>To the end therefore this, once right honourable and famous Court may bee rectified and Reformed, and setled in a way sute<g ref="char:EOLhyphen"/>able to the end for which it was originally Ordained, Wee hum<g ref="char:EOLhyphen"/>bly Propose as followeth.</p>
+            <p n="1">1. THAT hereafter no Place Office or Imployment be<g ref="char:EOLhyphen"/>longing to the said Court, of any degree whatsoever, bee bought or sold; but that those who have beene bred up and trained in any necessary Office or Offices belonging to the said Court may (according to their antiquity of Continuance and A<g ref="char:EOLhyphen"/>bilitie to discharge the same) bee preferred too, and placed in such Offices and places, whereby it may bee an incouragement to Learning and Virtue, by giving a competent and just reward to those that aply themselves to attaine thereto.</p>
+            <p>That in as much as t e said great Officers, by colour of having payed great summes of Money for their Places and Offices, and by the r greatnesse and power, and want of a strict course taken therein; have for a long time taken and exacted from the Subject great and vast summes of money, by way of Fees: By meanes whereof severall Suitors in the said Court have spent more then the value of that they sued for, to the great grievance and oppres<g ref="char:EOLhyphen"/>sion of the Subject.</p>
+            <p n="2">
+               <pb n="4" facs="tcp:165545:3"/> 2. THAT rhe Fees of the said Court, in the severall Offi<g ref="char:EOLhyphen"/>ces and Places thereof, may bee abated and reduced to such a reasonable Rate and Allowance, that the Subject may not bee undone in seeking Reliefe for his owne; which may be easily done, and many thousand pounds saved to the Subject, if the first Proposition bee granted, and those that are ably bred up, and most fit, put into such Place or Office; who undoubtedly will be contented with lesse then halfe the Fees that are now payd, and will dispatch the Subjects businesse with more knowledge, dexte<g ref="char:EOLhyphen"/>ritie and Judgement.</p>
+            <p>That for as much as by the meanes of severall Projecting and Monopolizing Persons, divers Impertinent, Unnecessary, Chargeable Offices have beene made and invented, and bestowed on, or purchased by, such Persons who have continued and put the same in execution to their owne vast advantage; to the great charge and obstruction of the Subject, and the hindrance and prejudice of the quick dispatch and prosecution of their Suits, in the said Court of <hi>Chancery.</hi>
+            </p>
+            <p n="3">3. THAT such Officers Offices and Places may bee abso<g ref="char:EOLhyphen"/>lutely abolish<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and taken away, and the same may bee supplied in some more fit and proper way, lesse chargeable to the Subject, and of far speedier dispatch of the businesse.</p>
+            <p>That for as much as the unnecessary length of Bills, Answeres, and other Pleadings in the said Court of <hi>Chancery,</hi> stuffed with many impertinencies, long and tedious recitalls which might bee drawn and expressed in farre shorter lines, many of them con<g ref="char:EOLhyphen"/>taining five or six hundred sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etes of paper, and some more, whereby the Client is put to unnecess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry great expences, and both Court and Councell much troubled and pusled to understa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the same, or to draw it to any certainty; and which doth much re<g ref="char:EOLhyphen"/>tard the speedy prosecution and hearing of the Cause: By meanes whereof many contentious Persons, some being of great wealth, and others otherwise very potent have overborne and wearied out many persons of their just Suits and Causes.</p>
+            <p n="4">
+               <pb n="5" facs="tcp:165545:3"/> 4. THAT there may bee some course taken therein to a<g ref="char:EOLhyphen"/>bridge the unnecessary length of such Pleadings, and reduce the same to some certaintie, <hi>viz.</hi> not to contain above one hundred leaves of paper at most, and that no man may exceede, under a penaltie, without Licence of the Court, in Merchants Ca<g ref="char:EOLhyphen"/>ses and others of necessitie.</p>
+            <p>That by the often misinformation of Clients Solicitours, and Councell by way of motion and Petition, severall Orders have beene and are made many times irregularly, which have oc<g ref="char:EOLhyphen"/>casioned severall other Motions or Petitions thereon; insomuch, that in severall Causes there hath beene 200. Orders made before any positive declarative or decreetall Order therin: and some<g ref="char:EOLhyphen"/>times after Decrees made upon Affidavits, informations by Mo<g ref="char:EOLhyphen"/>tions, or uunecessary Bills of Review, the Subjects have beene exposed to intollerable charge, burthen and delay, in the exces<g ref="char:EOLhyphen"/>sive Fees of Councellours Motions, Solicitours Fees, Orders, and drawing of Orders, Referrences and re-Referrences, Re<g ref="char:EOLhyphen"/>ports and re-Reports; to the great wrong and di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>paragement of the Court and the discouragement of Suitors therein.</p>
+            <p n="5">5. THAT the excessive Fees of Councellours may bee reduced to a reasonable proportion, and no man to give above that rate, upon a great penalty; it often times falling out that hee who can most Fee Councellours and Officers, thrives best in his Cause though never so unjust: And that unne<g ref="char:EOLhyphen"/>cessary and dilatory Motions and Petitions may bee avoyded, and the Subject put in a ready and quick way, for the hearing of his Cause: And that long and tedious Referrences to Masters of the <hi>Chancerey</hi> (which have often produced severall contrary Reports in the same Cause and Referrence) may bee avoided and the Client not burthened with continuall charge and at<g ref="char:EOLhyphen"/>tendance of himselfe, his Councell and Solicitour, to his great delay and charges, which in the end prove often fruitlesse, and rather an occasion of further debate and charge to the Par<g ref="char:EOLhyphen"/>ties, then an end of the matter referred to such Masters.</p>
+            <pb n="6" facs="tcp:165545:4"/>
+            <p>That for as much as severall Ignorant and Illitterate Persons doe take upon them to bee Sollicitours and followers of Clients Causes, &amp; do take and exact great Fees &amp; allowances for the same, some of them being either <hi>Paupers, Taylors, Weavers, Carpen<g ref="char:EOLhyphen"/>ters, Foot-posts</hi> and other persons of no estate or fortune, nor ever bred up Clearkes under any Attorney, Clearks or Officers in any Court, or admitted in any Innes of Court or <hi>Chancery,</hi> or any waies capable of such imployment, either in Persons or E<g ref="char:EOLhyphen"/>states; have taken and doe take, severall <hi>Subpoenaes,</hi> out of <hi>Chan<g ref="char:EOLhyphen"/>cery;</hi> and cause many illiterate and ignorant people to bee served therewith causlesly and out of meere vexation, and more to wrest an unjust Composition, then for any just cause of suite, which is frequently exercised and practised by such persons, in the Nor<g ref="char:EOLhyphen"/>thern and Western parts, and in Wales, and other remote places from <hi>London,</hi> to the great grievance and oppression of the Sub<g ref="char:EOLhyphen"/>jects, and the prejudice of able men, qualified for that imploy<g ref="char:EOLhyphen"/>ment: And moreover such persons, by prosequting and defend<g ref="char:EOLhyphen"/>ing of such Suits for the partie Plaintiffe or Defendant, by their ignorance, underhand dealing and unskilfullnesse therein, have and doe trouble and molest the Court with frivolous and unne<g ref="char:EOLhyphen"/>cessarie Suits, Motions, and Irregular-proceedings, and often times are the cause of the overthrow of many good Causes, which by due prosecution might produce good effects; and neverthelesse exact great and unwarrantable Fees and allowances for the same.</p>
+            <p n="6">6. THAT no Person or Persons whatsoever, under a great penaltie, may bee permitted to take upon them to take or sue forth any <hi>Writs</hi> or <hi>Subpoenaes,</hi> or to prosecute or defend any Suit in the said Court (other then the parties themselves) or to take any Fees gratuity or reward for the same, other then such as have beene bred up or served with, or under some Coun<g ref="char:EOLhyphen"/>cellor, Attorney, Clarke or able Solicitor for seaven yeare be<g ref="char:EOLhyphen"/>fore, or have beene admitted in one of the Innes of Court or <hi>Chauncery</hi> and have there studied or practised for the space of seven yeares after such their admittance; whereof, and of their
+<pb n="7" facs="tcp:165545:4"/> sufficiencie honestie and abillitie to undertake their Clients busi<g ref="char:EOLhyphen"/>nesse, Certifficate shall bee made by their Masters, and atte<g ref="char:EOLhyphen"/>sted by others of credit, where they have beene educated, or from the Principall and Rulers of such Innes of <hi>Court</hi> or <hi>Chancery,</hi> and other Persons of note and Credit, and may take an Oath in pub<g ref="char:EOLhyphen"/>lique Court as Attorneys doe in the <hi>Common-Pleas,</hi> and their names may be entred with the Register of the <hi>Chancery,</hi> and their Fees ascertained to avoid exactions.</p>
+            <p>And moreover, that to avoid such vexation of the Subject and wresting and exacting from them un-due compositions and summes of money upon service of <hi>Subpoena</hi>'s to purchase their ease and quietnesse, rather then to travell to <hi>London</hi> from remote places to answer litigious contentious Persons, of no estate or fortune, not able to pay such costs and charges as the <hi>Court</hi> al<g ref="char:EOLhyphen"/>lowes them. That it bee ordered, That according to the antient accustomed course in <hi>Chancery</hi> no man shall (upon a good penal<g ref="char:EOLhyphen"/>ty) take forth a <hi>Subpoena</hi> or sue any Defendant therewith before a Bill exhibited in <hi>Court</hi> under some Councellours hand, of the just cause of Complaints, wherein hee prayes Processe and where<g ref="char:EOLhyphen"/>upon the same is grounded.</p>
+            <p>That for as much as severall Persons ignorant of the course, practise and proceedings in the said <hi>Court</hi> of <hi>Chancery,</hi> and such that were not originally trained up Clerkes there, or have pra<g ref="char:EOLhyphen"/>ctised or imployed themselves in the said <hi>Court,</hi> whereby to at<g ref="char:EOLhyphen"/>taine to the knowledge thereof, in the raigne of the late King and severall Kings before, especially during the late times of <hi>Mo<g ref="char:EOLhyphen"/>nopolies</hi> and <hi>Patentees,</hi> and other grievous oppressions and in<g ref="char:EOLhyphen"/>supportable <hi>Monopolies</hi> imposed upon the Subjects of this Realme, have contrary to command, right and freedome, obtei<g ref="char:EOLhyphen"/>ned a most grievous and insufferable <hi>Monopolie,</hi> under the notion of a <hi>Charter</hi> from the King, of the place and places of six Clarkes in the said <hi>Court</hi> of <hi>Chancery;</hi> and a grant therein of severall vast Fees and allowances from Suitors in the said <hi>Court,</hi> in the pro<g ref="char:EOLhyphen"/>ceeding of their causes, which they have since, by colour of the said Pattent or Grant, exacted from the Subject; and stopped the
+<pb n="8" facs="tcp:165545:5"/> legall prosecution of such Suitors as refused to pay the same; which Pattent or Monopolie they say they have obteined and purchased with great summes of money contrary to the Statute of 2. <hi>Edw.</hi> 6. and contraty to Justice and common Right: for which Charters Fees and exactions, and undue Proceeding, by colour thereof, the said six Clarkes were questioned in the Starre-Chamber, and upon good proofes and examinations readie to bee fined and punished, and their Charter null'd upon the peti<g ref="char:EOLhyphen"/>tion of Mr. <hi>Sharpe,</hi> who was obstructed therein by the six Clarkes, as is imagined by rewards, or diswaded and tooke off Mr. <hi>Dibly</hi> Clerke to the Commissioners, and others who hindered and stopped the prosecution thereof: And since that, the said six Clerkes have framed and set on foote severall Ordinances (under pretence of the good of the Subject) so destructive there<g ref="char:EOLhyphen"/>unto, and to all Clerkes, Practioners, Solicitours and Suitors in the said <hi>Court;</hi> that such a Monopolie and Arbitrary Power hath never yet beene attempted by any before in the worst of times, as by the Ordinances themselves, and the Clerkes Answers thereunto, and the Petition and proceedings of Mr. <hi>Sharpe, here<g ref="char:EOLhyphen"/>unto annexed appeares;</hi> which Ordinances the said six Clerkes, neverthelesse, put in execution, three of them being Parliament men, affirming they can each of them ingage 100. more Mem<g ref="char:EOLhyphen"/>bers in Parliament to justifie and make good their Proceedings.</p>
+            <p>FIrst, Whereas the ground and end of their imployment be<g ref="char:EOLhyphen"/>ing to place no man in any Clerkes place or other imploy<g ref="char:EOLhyphen"/>ment in the said Office, but such as had served their time with a master Clerke in the said Office and were able to write the hand, skilfull in making Writs, and of knowledge in the practise of the said Office and able to instruct their Clients and to fol<g ref="char:EOLhyphen"/>low their causes, and su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h as in their former service in the said O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fice had given a good testimony of their honestie and good behaviour.</p>
+            <pb n="9" facs="tcp:165545:5"/>
+            <p> SEcondly, To have the care and charge of bundling up, and filing the Records of the said Office, and to lay up and pre<g ref="char:EOLhyphen"/>serve the same in good order, whereby they may be in a readinesse for the Subjects use upon all occasions.</p>
+            <p>THirdly, That they should bee able and skillfull men in the Making, Drawing and Perusing of all Decrees, speciall-Writs, called Master-Writts, and all other formes of Writs and Processe used in the said Court; and upon any debate be<g ref="char:EOLhyphen"/>twixt the Clearks, about the Practise or Proceedings of the Of<g ref="char:EOLhyphen"/>fice, to bee able to Regulate the same, and to advise the Clients in their severall Offices, and resolve all their Doubts; and in case any matter of irregularity, or undue issuing forth of the said Writts, or any other Writts, or any other Proceedings which the six-Clearks could not settle in the Office. That in case of any Order of Referrence, they should bee able to Cer<g ref="char:EOLhyphen"/>tifie the Lord Keeper or Lord Chancellour of the truth thereof, and the due Course and Proceedings in such Cases, without any Partiality.</p>
+            <p>That the Six-Clearks contrary to the said first end of their Pla<g ref="char:EOLhyphen"/>ces and Imployments, especially in these times, have and doe ad<g ref="char:EOLhyphen"/>mit into places of Practizing and Writing-Clearks, some of their owne waiting servants, and other strangers that were never bred up or educated in the said Office, nor did serve their time in the said Office, or continued their attendance therein; such as cannot write or read the hand, nor of abilitie to undergoe their Clients Causes, or to direct them in the course of the Court; Some that had lain before in Newgate, Bridewell, the Gatehouse and other Prisons, for foule and ignominious Crimes; some that are grand Malignants and Delinquents, who during the late Warres have discerted the Parliament and their Places and Im<g ref="char:EOLhyphen"/>ployments in the said Court, and went to <hi>Oxford</hi> and other Gar<g ref="char:EOLhyphen"/>risons of the Kings, and did there Practise and Act, contrary to the Ordinances of Parliament; divers ill-affected Persons to the Parliament and Kingdome; and some that have borne
+<pb n="10" facs="tcp:165545:6"/> Armes against the Parliament, and doe still revile and vilifie their proceedings; and notwithstanding the severall Ordinances of Parliament for the expelling of Papists, Delinquents, Malignants, &amp;c. out of the City of <hi>London</hi> and lines of <hi>Communication,</hi> the said Persons, in contempt thereof, and of the Authority of Par<g ref="char:EOLhyphen"/>liament, have still continued their Residence in <hi>London:</hi> And the said Six-Clearks, though they know the premises to bee true, doe suffer them to continue their Places and Imployments in the said Office, for their owne ends; and severall Persons, well-af<g ref="char:EOLhyphen"/>fected to the Parliament and their proceedings; some who have continued their attendance here all the late Warres, and written to the great-Seale authorized by Parliament, contrary to the late Kings Proclamations, to the hazard of their lives; others that have appeared in Armes and hazarded their lives in the field, for the Parliament, and those that have other waies done the Parlia<g ref="char:EOLhyphen"/>ment good service, are discountenanced and kept back from Pla<g ref="char:EOLhyphen"/>ces and Preferment, in the said Office, some of them having con<g ref="char:EOLhyphen"/>stantly served and attended their imployments for ten, twelve, fourteene yeeres, and some more; having had great summes of money given with them, and are of sufficient abilities to perform all the duties of Clearks, to the great discouragement of the said persons, and all other laborious and industrious persons in the said Office; contrary to common-right and interest of freeborne Sub<g ref="char:EOLhyphen"/>jects; contrary to the severall Ordinances of Parliament, and the trust in them reposed, as Members thereof, and contrary to the end and duty of their places and imployments.</p>
+            <p>That the said Six-Clearks, contrary to the second duty of their Places. have not only neglected the due Ordering, Bundling, Filing and Preserving of the said Records, but have suffered some of them to bee so mislaid that they cannot bee found when the Subject hath use thereof; and by admitting into the Office the persons aforesaid, and for want of care and due regard had in the discharge of their Places, have suffered many Decrees, Bills, An<g ref="char:EOLhyphen"/>swers, Copies, and other Pleadings to bee imbeziled away and purloyned, by such loose Persons as were by them admitted into
+<pb n="11" facs="tcp:165545:6"/> the Office for their owne advantage, to the prejudice of the Clients, and the wrong and scandall of honest Clarkes in the the said Office: And the said six Clarkes, instead of framing a quick and ready way for the bundling, entring and filing of the Records and the entries of Writs Processes and other Proceedings in the said Court have imposed upon the Clarkes a burthen to enter the same in so many needlesse frivo<g ref="char:EOLhyphen"/>lous places, and in such way and manner, that thereby the Clarke is troubled and hindred in the dispatch of his businesse, and the Client retarded and put to unnecessary charge: All which is meerely for their owne ends, and to raise a Gaine and advan<g ref="char:EOLhyphen"/>tage to themselves contrary to the duties of their places.</p>
+            <p>That the six Clarkes contrary to the third end of their places and undertakings, are neither skillfull in the making framing and penning of any Writs belonging to the said Court nor able to write the hand or reade the same as they ought to doe, nor have any knowledge in the practise of the Office and proceedings in the said Court, most of them; till within this two or three yeares, when they obteined their places being meere strangers to the Court and imployment they have undertaken; by meanes where<g ref="char:EOLhyphen"/>of the said six Clarkes upon severall Referrences made to them, have, <hi>virtute officij,</hi> made severall Reports and Certificates contrary to the ancient and usuall practice and proceedings in the said Court, and contrary to the knowledge and experience of all the ancient Clarkes and practitioners in the said Office; some of them having practised there thirty or fourty yeares and upwards, by meanes whereof many Clients have beene not only retarded in their businesse, but also put to unnecessary charges and expences and some times undone, to the discouragement of all Suitors and all knowing men in the said Office; some of the six Clarkes having severall times made Certificates against their owne Clients, and contrary to truth, out of meere ignorance; and yet nevert<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elesse doe take and exact great summes, and fees of money from the Subject taking three shillings foure pence fee upon the filing of every Bill and entring every appearance,
+<pb n="12" facs="tcp:165545:7"/> and so forwards three shillings foure pence every Terme till the Hearing, under the notion of an Attornies Fee; whereas they neither know nor see the Client till the hearing of the Cause, nor doe so much as advise or instruct him (which indeede some of them cannot) as other Attornies, in all other Courts doe, and ought to doe in the discharge of their Consciences and the Duty of their Places; but the Six-Clearks, to ease themselves, put all the worke upon the Clearks, who have not a penny Fee for their paines: The Six-Clearks take six pence a sheete, out of eight pence, which the cleark receives, and alloweth him and his clearke but two pence for a sheete, for all their paines in copying the same, and in advising, directing and following the Clients Cause, and other charge and trouble incident thereunto; and so take proportionable and more for all Writs and Proceedings in the said Court, and yet the Clearke must be at the hazard of all mis<g ref="char:EOLhyphen"/>takings and misprisions in all businesses; in the hazard of recei<g ref="char:EOLhyphen"/>ving his monies, and must pay the Six-Clearke before hee re<g ref="char:EOLhyphen"/>ceives it, else his Client must suffer, though two hundred miles distant; and having given fifty or sixty pounds, or more, to bee a Clarke; served tenne, twelve yeares, or more, shall be at the plea<g ref="char:EOLhyphen"/>sure of the Six-Clarke, when, or whether at all, hee shall have a place to practise; and when the Clarke hath purchased his free<g ref="char:EOLhyphen"/>dome to practise, at a great rate, and by his industry and labour obteined a setled course of life, shall bee yet at the will and pleasure of the Six-Clarke, and subject to bee turned out of his Place and Ruined for ever without any cause or ground for the same. All which is the height of Tyranny and Oppression, contrary to the course and custome of all Offices, Trades and Professions, and contrary to the Right and Freedome of Sub<g ref="char:EOLhyphen"/>jects: Whereas the Six-Clarkes, in respect of the paines and la<g ref="char:EOLhyphen"/>bour thy take in their severall places, and the use thereof, doe not deserve twenty pounds <hi>per annum;</hi> and yet they doe exact from the Subject, for pretended Fees, by colour of the said indirect <hi>Charter</hi> or <hi>Pattent,</hi> two thousand pounds <hi>per annum</hi> a peece, and more, having lately refused of the Clarkes, one
+<pb n="13" facs="tcp:165545:7"/> thousand two hundred pounds <hi>per annum</hi> a peece, for the pro<g ref="char:EOLhyphen"/>fits of their Places, and yet all they doe Act in the Office and Court is but in effect, to make Entries, and attendance, that their exacted Fees be not unpaid.</p>
+            <p>To the end that these unnecessary ignorant Officers may bee removed, that the Subjects may have a speedy and quick way for the proceeding of their Suits, and the ancient and most whol<g ref="char:EOLhyphen"/>some course and practise of the Court may bee observed, and many thousands of pounds saved out of the great unnecessary Fees, now paid and extorted, and the great summes of mo<g ref="char:EOLhyphen"/>ney (by Delaies and Irregular-proceedings of the said Six-clearks) expended; and the Labourers may receive the fruits of their Labour, and the Subjects the true benefit of their just-Suits.</p>
+            <p n="1">1. THAT in prosequution of the first generall Head it bee Ordered, That the said Charter or Pattent of the Six-clearks bee absolutely taken away, together with all Fees and summes of money which they take by colour thereof; And that twelve of the ancientest, most knowing, practising-clearks; two out of every Office bee chosen by the major Voices of the Clearks, and presented to the Lord-Keeper, Lord-Chancellour, or Commis<g ref="char:EOLhyphen"/>sioners of the Great-Seale, or Master of the Rolls for the time being; to choose six of them to bee <hi>Overseers,</hi> or <hi>Superinten<g ref="char:EOLhyphen"/>dents</hi> of the six severall Offices, without any thing to bee paid them for the same; and to have a reasonable <hi>annuall</hi>-Stipend for their paines in Bundling, Filing, and Keeping of the Re<g ref="char:EOLhyphen"/>cords; Ordering and Regulating of the Office; for Attending the Court to Informe the Lord-Keeper, Lord-Chancellour, or Commissioners, of all the proceedings in each Office, and to satisfie the Court of all Doubts and Variances in the Office, and other things requisite to bee done, according to the duty of their <hi>Places.</hi>
+            </p>
+            <p n="2">
+               <pb n="14" facs="tcp:165545:8"/> 2. THAT the Office may bee purged and expun<g ref="char:EOLhyphen"/>ged of all Strangers and Aliens, and persons that were not bred up, or legally admitted, en<g ref="char:EOLhyphen"/>tred and covenanted with their Masters to live in the Office, for a fitting and competent time, at the least six or seaven yeeres; of all such as were bred in other Offices, and lately crept into the said Office, by the meanes of the Six-clearks; all Cavaliers, Malignants and Delinquents, and such as have discerted the Parliament and their imployment, and repaired to, and continued in, the King's Garrisons, all such as came not in time to <hi>London</hi> and have not taken the <hi>Covenant</hi> by the time limited by the Ordnance of Parliament, nor shewed a Lawfull ex<g ref="char:EOLhyphen"/>cuse for their absence, all such as have born Armes against the Par<g ref="char:EOLhyphen"/>liament, or acted contrary to the Ordinance of Parliament, and all such as are Intruders and indirectly obteyned places in the said Office, before they have served six or seven yeares with a Master, or under some Clarke in the Office and able for the place: may bee all turned out of the Office and disabled to practise or write there any longer; and that such as are capable of an under-clarkes place may continue therein, but they that are uncapable, to have deserving men put in their Roomes: And the Master clarkes to bee reduced to the number of twelve in each Office, and to bee sworne Attorneys inrolled and entred for practising Attorneys, and that they may take none to bee their Clarkes but such as they will answer for, and that the time of their first admission in the Office and the time of their continu<g ref="char:EOLhyphen"/>ance with their Masters bee likewise enrolled, to the end (after the expiration of their time) they may bee preferred to the place or places of Attorneys upon any vacancie in each Office accor<g ref="char:EOLhyphen"/>ding to their continuance and sufficiencie; and that no Attor<g ref="char:EOLhyphen"/>ney shall after the expiration of his Clarkes time, turne him off, or take another in his stead before hee bee preferred to an At<g ref="char:EOLhyphen"/>torneys place, without good and sufficient cause shewed of his ill behaviour and uncapablenesse to continue in the said Office, attested by two or three witnesses, at least, and the same to bee
+<pb n="15" facs="tcp:165545:8"/> done by the Lord Keeper or Lord Chancellour or Master of the Roles in the presence of the Master, his Clarke and friends that placed him; It being of late times too frequently practised by severall undeserving Masters, who have taken money's of their Clarkes and turned them off to the wild World before halfe their time expended, without any cause, to the great griefe of the Parents, and the utter ruine of their sonnes.</p>
+            <p>That in as much as the said Six-clarkes out of the respect of their owne gaines and ends, have tyed and compelled the Clarkes to enter all the Attachments, Proclamations, Commissions of Rebellion, Rules of day given to answer, reply &amp;c. in the house booke, the Six-Clarkes and the Registers Office, to the treble charge of the Subject and the like trouble of the Clarke.</p>
+            <p n="3">3. THAT Hereafter there bee a booke kept by the Superintendent Clarke or his Deputy, tyed safe with chaines and lock't, to enter the same duely, and nothing paied for the entry there<g ref="char:EOLhyphen"/>of, and the same to bee entred in no other place.</p>
+            <p>For as much as heretofore after full Answer come in, the Plain<g ref="char:EOLhyphen"/>tiffe had libertie to put in exceptions to the Defendants Answer at any time before the cause was dismissed, which some Plaintiffes would prolong, till the cause would bee ready to bee dismissed, of purpose to delay the cause and prejudice the Defendant.</p>
+            <p n="4">4. THAT The same Tearme the Answer comes in, or the first day of the next Tearm, the Plaintiffe may put in his exception if hee please, and after such time to bee barred from any, and in case the same shall bee found frivolous, then good costs allow<g ref="char:EOLhyphen"/>ed the Defendant according to a bill of costs, and the like for the Plaintiffe if they bee good.</p>
+            <p>That many Plaintiffes have beene put to unnecessary charge to serve Defendants with <hi>Subpoena's</hi> to rejoyne some of them li<g ref="char:EOLhyphen"/>ving farre off, and only a Replication of course, most common<g ref="char:EOLhyphen"/>ly
+<pb n="16" facs="tcp:165545:9"/> put in upon the returne thereof, to the Plaintiffes great de<g ref="char:EOLhyphen"/>lay, sometimes by the miscarriage of the <hi>Subpoena,</hi> and some<g ref="char:EOLhyphen"/>times by the parties not returne in time to make Oath of service thereof, which hath often times occasioned great delay, charge and expences in the cause; and in case a speciall Replication comes in, the same may bee soone rejoyned to by the party him<g ref="char:EOLhyphen"/>selfe or such as hee intrusts, every man being <hi>(de jure)</hi> bound to attend the Court by himselfe, his Attorney or Sollicitor during the sitting of the Court.</p>
+            <p n="5">5. THAT Hereafter no Defendant shall bee ser<g ref="char:EOLhyphen"/>ved with a <hi>Subpoena</hi> to rejoyne, but upon a ge<g ref="char:EOLhyphen"/>nerall or speciall Replication filed or delivered to the D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fendants Clarke; He, or the Solicitor in the cause, or the Client, shall before the end of that Tearme or within a fortnight after rejoyne thereunto, and joyne in Commission without any rule, giving only notice to the Defend<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts Clarke, and in case the Defendant will not with<g ref="char:EOLhyphen"/>in that time rejoyne thereunto nor shew good cause to the con<g ref="char:EOLhyphen"/>trary, then the Plaintiffe to have a Commission <hi>ex Parte,</hi> and nei<g ref="char:EOLhyphen"/>ther Plaintiffe nor Defendant to have any further or other Com<g ref="char:EOLhyphen"/>mission without speciall Affidavit that they had materiall wit<g ref="char:EOLhyphen"/>nesses which they knew not of before, that were beyond the Seas or were sick, and could not bee examined, and then in such or the like case the partie on whose behalfe the Affidavits is made shall have another Commission retornable the next Tearme and the other partie to joyne therein, if hee please, it being the con<g ref="char:EOLhyphen"/>stant practise of the common-Law in their most weightie bu<g ref="char:EOLhyphen"/>sinesses as soone as they pleade to goe to issue without any service of the partie, only notice given to the Attorney on the other side, which course may as well bee used in <hi>Chancery</hi> if the partie either by himselfe, his Solicitour or Attorney, attend the same.</p>
+            <p>That for asmuch as both Client and Clarke are put to much charge and trouble to give rules of publication and to enter the same foure times in foure severall places, which sometimes
+<pb n="17" facs="tcp:165545:9"/> by the length of time alloted for that purpose, and other times through the least misprision or slip of the Clarke in entring there<g ref="char:EOLhyphen"/>of in those severall places enforced by the Clarks to their owne advantage, the Client hath beene put to much trouble, and sometimes occasions severall motions, as well upon the issuing due or undue Commissions, as also the entring of Rules of publi<g ref="char:EOLhyphen"/>cation being only matter of course and formalitie, but now of late, by the meanes of the Six-clarkes, made a meere snare, to catch each partie and to put them to trouble, charge and delay.</p>
+            <p n="6">6. THAT It bee ordered, That as soone as the Commission is returned and filed with the Superintendent Clarke; that rules of publi<g ref="char:EOLhyphen"/>cation may passe peremptorily within three weekes after, unlesse upon Affidavit and good ground there bee sufficient cause shewed to the contrary, or else the Plaintiffes cause to bee set downe for hearing for the next Tearme follow<g ref="char:EOLhyphen"/>ing of course.</p>
+            <p>That anciently the Master Clarke of the <hi>Chancery,</hi> and none other, did make all sorts of <hi>Subpoena's,</hi> which were then had at an easy rate, and were dispatched by every Clarke with expedi<g ref="char:EOLhyphen"/>tion according as his Client had use thereof; but during the late times of <hi>Monopolies</hi> and <hi>Pattents,</hi> the making of <hi>Subpoena's</hi> hath beene reduced to the hands of three persons, out of the Office, and the same made a particular Office by it selfe; by some Graunt or Pattent from the King, who have by coulour thereof exacted and extorted from the Client great Fees for every <hi>Subpoe<g ref="char:EOLunhyphen"/>na;</hi> some two shillings six-pence, some three shillings, and some six shillings and eight-pence; by meanes whereof those that had, and obteyned the said Monopolie, have raised to themselves two thousand pounds <hi>per annum</hi> a peece, and have forced both Clarke and Client to attend their leisures, sometimes a weeke for the same, and many times the Clarkes themselves in the mid'st of their imployment have beene forced to repaire to this usurped Office and make the same themselves, and pay their full demand
+<pb n="18" facs="tcp:165545:10"/> and pretended Fees, for a meere stamp thereon, and afterwards to send it to <hi>Westminster</hi> to bee sealed to dispatch the poore Client, being forced to stay in Towne sometimes a weeke to waite these gentlemens pleasure to make it; and it many times falls out after the Client hath waited so long and travelled one hundred or two hundred miles, or more, to serve the Defen<g ref="char:EOLhyphen"/>dants, the same hath beene mistaken, by the hastinesse of the Clearke, there being but three that have ingrossed the same into their hands, from above threescore and ten that formerly made the same; to the delay and charge of the Client, the infringe<g ref="char:EOLhyphen"/>ment of the Rights of the said Master-clearks, and a burthensome charge and trouble to the <hi>Common-wealth.</hi>
+            </p>
+            <p n="7">7. THAT in order to the third generall-Head, it be Ordered, That the said Monopolie or Patent bee <hi>anulled,</hi> together with all Fees thereby accruing, and that all <hi>Subpoenaes</hi> bee henceforth made by each practizing Attorney for his Client; and for preventing of any others to forge or make the same, that there bee a booke kept by the Super<g ref="char:EOLhyphen"/>intendent-clearke, or his Deputy, by turnes every yeere, for en<g ref="char:EOLhyphen"/>tries thereof, and some reasonable allowance for the same, and every Attorney to write his owne name on the back of the <hi>Sub<g ref="char:EOLhyphen"/>poena,</hi> that it may bee known who made the same, and who deals in that cause, and the Client to pay reasonable Fees for every <hi>Subpoena.</hi>
+            </p>
+            <p>That <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n like manner there hath crept in another Patent or Mo<g ref="char:EOLhyphen"/>nopoly called the <hi>Affid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vit</hi> Office, where the Master thereof, and his Deputy, enforce the Client to File and Enter <hi>Affidavits,</hi> and take copies thereof <hi>will hee nill hee,</hi> and to pay him his owne de<g ref="char:EOLhyphen"/>mands for the same, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reas the same is crept in as lately as the <hi>Subpoena</hi> Office, and of as little use, and of as great charge and trou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le as the other, where the Client must dance attendance to have his <hi>Affid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vit</hi> Entred and Filed, and to have Copies and Certificates thereof, and somtimes upon a slip of <hi>non-Entry</hi> there<g ref="char:EOLhyphen"/>of, the adverse party upon a Certificate of this new created Of<g ref="char:EOLhyphen"/>ficer
+<pb n="19" facs="tcp:165545:10"/> can overthrowe all the Clients Proceedings, and put him to grievous charge, trouble and delay, which is a great grievance and oppression to the Subject and not sit to bee continued any longer.</p>
+            <p n="8">8. THAT It bee likewise Ordered, That the said Affidavit-Office bee taken away, and that all Affidavit before any Motion or Proceedings thereon, bee filed with the Superintendent Clarke of the Office in good order, and an Alphabet kept there<g ref="char:EOLhyphen"/>of, and the Attorney of the other side to bee acquainted with the filing of it, that hee may take off the same if hee please, and make a copie thereof at an easie and cheape rate for his Client, and afterwards to file the same againe in the same place, to the end it may remaine upon Record to bee made use of against the par<g ref="char:EOLhyphen"/>tie that made, it in case of perjury &amp;c. which will much ease the Clarke and Client of trouble and charge and bee a quick di<g ref="char:EOLhyphen"/>spatch of the businesse.</p>
+            <p n="9">9. THAT In Order to the fifth generall head, the Fees of Councellours may bee ascertained and to have a competent tearmely Fee in every cause sutable to the degree of their calling, and none under a great penaltie, either directly or indirectly to take any more Fee in that cause that Tearme for any further Motion &amp;c. which will bee a good meanes to avoid those mul<g ref="char:EOLhyphen"/>titudes of unnecessary Motions and Orders, that have for a long time beene made in severall causes by the violent prosecution of troublesome litigious persons, sometimes to the undoing of his adversary, and sometimes of both.</p>
+            <p n="10">10. THAT No Client or Councellour shall misin<g ref="char:EOLhyphen"/>forme the Court upon any Motion, nor make any Motion in Court before notice in writing left with the adverse partie, his Clarke, Attor<g ref="char:EOLhyphen"/>ney
+<pb n="20" facs="tcp:165545:11"/> or Solicitour in the cause before, of the time and effect of his Motion, to the end the same may, before Motion, bee re<g ref="char:EOLhyphen"/>conciled, if possible, without Motion; or else, that the other partie may, with his Councell instructed, attend to defend the same; and that upon such notice and hearing of Councell on both sides, the same may bee a conclusive Order in that cause as to that particular point then moved, and Ordered, which will much avoid the multipicity of Orders and bee a likely meanes to save the Subject many thousand pounds <hi>per annum.</hi>
+            </p>
+            <p n="11">11. THAT No Order upon Petition may bee grant<g ref="char:EOLhyphen"/>ed to overthrow or alter any Order made in open Court, or any Motion or Petition to the Master of the Rolles or other Judge, to alter that which was Ordered and setled by the other; but to bee done before or in the presence of him that made and granted it, and that in cas<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of misinformation by Motion or Petition, the partie to bee severely punished; and that noe Petition shall bee preferred or granted before a copie thereof, <hi>gratis,</hi> first delivered to the adverse Partie, his Clarke, Solicitour or Attorney in the cause, and notice of the time when the same is exhibited, to the end hee or they may attend to defend the same, which will bee a meanes to avoid multitude of Petitions and Orders thereupon some<g ref="char:EOLhyphen"/>times surruptitiously and irregularly obteined to the great abuse of the partie that grants it, and the dishonour of the Court, and the charge and grievance of the Subject.</p>
+            <p n="12">12. THAT It bee ordeyned, That no matter shall bee referred to Masters of the <hi>Chancery,</hi> except it bee long and tedious Accompts betwixt Mer<g ref="char:EOLhyphen"/>chants, Factors and Tradesmen, or some tedious matter that cannot bee determined in Court without great trouble and hinderance of other causes that require a quicker dispatch; and no Master or his Clarke to his use (under a great penalty, directly or indirectly, to take any fees, gratuities or rewards
+<pb n="21" facs="tcp:165545:11"/> for any Reports save only foure-pence for every leafe hee drawes or copies for the Client; and that Masters may bee or<g ref="char:EOLhyphen"/>dered to make their Reports pithily and with expedition where<g ref="char:EOLhyphen"/>by the Clients may not bee wearied and undone with delayes and expence, as many have beene by granting new Warrants for new dayes, from time to time, to trie who bids most for his cause, and putting the Clients to great charge and expences in severall attendances, severall dayes with their Councell, Sollicitour and Attorney, and in the end receive no fruit, but sometimes obteyne Reports quite contrary to the merrits and truth of the cause, other times, one Report drawes another Re<g ref="char:EOLhyphen"/>ferrence, and that a contradictory Report to the former, and so <hi>ad infinitum</hi> to the scandall of the Court and the discou<g ref="char:EOLhyphen"/>ragement of Suitours and just causes.</p>
+            <p>For as much as it is the generall complaint of many Sui<g ref="char:EOLhyphen"/>tors in the said Court of <hi>Chancery,</hi> that divers have beene, and usually are put to divers unnecessary and excessive charges by Registers, Enterers and Writers of Orders, their Deputies, Clarkes and Agents in the said Court; and that divers and sundry unnecessary Orders have beene made in the said Court and drawne out much longer then is or hath beene necessary, for th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meere gaines of Officers, troublesom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and burthen<g ref="char:EOLhyphen"/>some both to Court and Councell, and hurtfull and chargea<g ref="char:EOLhyphen"/>ble to Suitors there, and that there hath beene multitudes of such Orders made in the said Court; that divers who have given long and tedious attendance before they could get any entries or copies thereof to bee made, by reason (as it is thought) of money or reward given or promised to Registers their De<g ref="char:EOLhyphen"/>puties, Clarkes, Servants and Agents to drawe up such Or<g ref="char:EOLhyphen"/>ders st icter or to some other sence then the said Court did truly direct and order, the same being carried from Client to Clark<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, from Clarke to Councell and altered and changed to their owne sense and advantage; by reason whereof, many good causes have miscarried and the Client beene put to much charge, perplexity, trouble and travell to resort to the Councell, after
+<pb n="22" facs="tcp:165545:12"/> to the Lord <hi>Chancellour,</hi> Judge or Judges to have the same drawne and entered according to the true sence thereof; and whereas it is reported that many others who have not under<g ref="char:EOLhyphen"/>gone such trouble, perplexity and toyle before they have pro<g ref="char:EOLhyphen"/>cured or could procure such orders to bee drawne according to the true sence of the <hi>Chancellour,</hi> Judge or Judges, who made or pronounced the same, have beene at great charges in giving large rewards to such Registers their Deputies or Clarkes (who have agitated therein.) And whereas it is, and hath beene generally reported and much complained of, that the said Court hath beene so full of businesse that many Suitors could have no Proceedings there without great trouble and charge, and that divers before they could have an end of their Suits there, have spent as much or more then that which they have sued for there hath beene in value, besides their trouble and perplexitie of minde, for many yeares together; and di<g ref="char:EOLhyphen"/>vers others by such obstructions have beene almost distracted in minde, and others utterly undone, and that some have given over and left good causes for lost, and proceeded no farther in them, by reason of the extreame charge and trouble which they have not beene able to undergoe after they have beene brought in and intangled in suit in the said Court, and princi<g ref="char:EOLhyphen"/>pally by the multitude of Orders and the excessive charge thereof and trouble occasioned thereby; the place of a Master of the Registers Office according to the fees now taken, being worth one thousand five hundred or two thousand pounds <hi>per annum</hi> at least.</p>
+            <p n="13">13. THAT In pursuance of the first generall head or Proposition, the now Master of the Registers Office together with his Pattent or Grant there<g ref="char:EOLhyphen"/>of may bee absolutely taken away and disabled to continue the said place, or to take or extort such great fees and summes of money of the Subject, as formerly hath beene done, and that there may bee two or more Master Registers, <hi>gratis</hi> ap<g ref="char:EOLhyphen"/>pointed
+<pb n="23" facs="tcp:165545:12"/> of his Deputies or such as were bred in the said Office of most ancient standing and best abilitie to discharge the same, and so for the future such Clarkes only as are or shall bee bred up in the said Office upon any vacancy to have the place <hi>gratis.</hi>
+            </p>
+            <p>And that such Registers shall alwaies attend the Court, and enter all Orders in their Bookes or Registry, pithily, as Se<g ref="char:EOLhyphen"/>condaries doe at the Common-Pleas and Kings-bench, directly according to the Sence and Declaration of the Chancellour or Judge that makes or pronounceth the same, and shall draw the same Order, short and compendious accordingly, without any recitall of Councellours Allegations, former Orders, Overtures of the Court and Councell, or incerting the Councellors Brevi<g ref="char:EOLhyphen"/>ate and Instructions, as many times they do; to the great charge of both Parties, and trouble of the Court and Councell; That the same may bee rendred, as neere as may bee, to the Rules and O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ders of the Common-Law; for which the Register shall have a certaine reasonable allowance, and for every Order, long and short, one with another, and not three shillings a side as former<g ref="char:EOLhyphen"/>ly, and that all Eutries, Certificates, Copies of O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ders, &amp;c. may bee reduced to the same proportion, whereby every man may have a competent gaine, and the Subj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct eased of much trouble and expence.</p>
+            <p n="14">14. THAT the like Course and Method may bee used and taken in the Regul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting of the Fees and Officers of the Examiners Office, the Petty-bagg, the Cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sistors Office, and all other Offices b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nging to the said Court of <hi>Chancery;</hi> that Conscience may b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> used as well in the Practick as the Theorick, and that Just<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce may fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>we like Rivers of waters, and Righte<g ref="char:EOLhyphen"/>ousnesse m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y fl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sh like a B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y-Tree; more especially, that course ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bee taken with the Examiners Office; where the Examiner t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes two shillings and six pence upon the exami<g ref="char:EOLhyphen"/>ning of eve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Witnesse, twelve pence <hi>per</hi> Sheete for all Copies,
+<pb n="24" facs="tcp:165545:13"/> ten shillings for bare Examination of any old Record to bee used in any Court for matter of evidence, and divers other in<g ref="char:EOLhyphen"/>tollerable fees and exactions; And whereas all Records should bee at all times ready for the use and benefit of the Sub<g ref="char:EOLhyphen"/>ject, and the pretence for which the examinors take their vast fees, is under collour thereof; yet the said examiners their Clarkes and Deputies, will not permit the Subject in their presence to read or view, or to heare read any Record in their Offices, though they have beene proffered a very large consi<g ref="char:EOLhyphen"/>deration for their paines therein, but tie the Subject to take Copies sometimes of two hundred or three hundred sheetes of paper, and pay after twelve-pence <hi>per</hi> sheete for the same, for their owne gaines and advantage: whereas it may fall out afterwards that no part thereof, and sometimes but two or three sheetes thereof is needfull or usefull for the Subjects purpose, wich is a great grievance to the Subject and contrary to the duty of their places, and the end of their imployment, and the Liberty of the Subject: As also for the abolishing of Fines paid on the issuing forth of Originall Writs, to the great oppression of the Subject, and for taking away the Fee upon damage Cleare.</p>
+            <p>For as much as a great deale of Money, Trouble and At<g ref="char:EOLhyphen"/>tendance is used in the obteyning of <hi>Injunctions</hi> upon <hi>Attach<g ref="char:EOLhyphen"/>ments,</hi> or upon <hi>Dedimus Potestat.</hi> till Answ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, &amp;c. <hi>Injun<g ref="char:EOLhyphen"/>ctions</hi> for Possession; Commission to Pleade, Answere or D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>murrer; <hi>Dedimus Potestat;</hi> Referrences to Masters, and the like, being all but matter of Forme and Course, and never denied upon Motion.</p>
+            <p n="15">15. THAT the superintendent Clearkes in each Of<g ref="char:EOLhyphen"/>fice, where the Cause depends, shall Grant and passe all these of Course, and put Hands thereunto, without any Reward for the same, and without any Attendance on the Lord Keeper or Lord Chancellour, to get the same Signed, as formerly; which will avoid much trouble and
+<pb n="25" facs="tcp:165545:13"/> charge to the People, and will much ease them in the dispatch of their businesse, and abate the great Fees payed for the same; such Motions, Attendance, Signiture, and the like, being meere ceremonies, and rather made to draw Fees and gaines to severall impertinent Officers, then any advantage to either partie, Plain<g ref="char:EOLhyphen"/>tiffe or Defendant.</p>
+            <p>For as much as a great deale of money is spent by Petitions, Motions, Orders, Referrences, Re-referrenees, and Orders upon Orders, m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de concerning the undue or irregular proceedings and entries in the said Office; the Client being put to the charge of Councellors Fees, to move to draw the Order, to procure a Warrant to attend the Referrence, to Fee Councell and Attor<g ref="char:EOLhyphen"/>ney to attend the same, and long attendance to get a Certificate; then again to bee at the charge of a Motion in Court, to have it confirmed, and further order therein: by meanes whereof, many have beene long delayed, and spent much Moneyes; and all the matter in varience meerely, in point of practise betwixt the Clarkes.</p>
+            <p n="16">16. THAT It bee Ordeyned, That the foure Superin<g ref="char:EOLhyphen"/>tendent Cla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes, not towards the Cause upon com<g ref="char:EOLhyphen"/>plaint made to them in this behalfe, shall grant a note of summons under their hands, to the partie complaining, to summon the other partie and his Clarke to attend the Referrence, and to de<g ref="char:EOLhyphen"/>liver the Partie, his Clarke or Solicitor his exceptions, or cause of complaint, in writing, whereby to attend to defend the same, at the time appointed for that purpose, in case the parties and their Clarkes cannot in the interim reconcile and end the same: But in case of failer thereof, the Superintendent Clarkes aforesaid to heare and end the same, and make their order therein, and tax costs to either partie agrieved, as they see cause, which will much ease the Court, and avoid delay and expences.</p>
+            <p>That in as much as divers litigious persons, and others of great Wealth and abilitie, doe preferre severall Billes of purpose to
+<pb n="26" facs="tcp:165545:14"/> vex and molest the parties Defendant, and divers times the De<g ref="char:EOLhyphen"/>fendant, before the cause comes to hearing, hath expended 5. or 600. l. sometimes 1000. l. sometimes more; and yet at the hea<g ref="char:EOLhyphen"/>ring, though the Bill bee dismissed, hath little or no costs allowed him, or them; and so on the other side, when Plaintiffes have beene put to great charge, to bring their cause to hearing, by the strong opposition of obstinate contentious Defendants, and though it appeare, at hearing, hee had good cause of suit, and peradventure the matter in question bee ordered and decreed to him; yet no costs allowed him; both which cases seeme un<g ref="char:EOLhyphen"/>reasonable.</p>
+            <p n="17">17. THAT Hereafter both Plaintiffe and Defendant, in case of a decree for the one, or dismission for the other, shall have their costs allowed according to a Bill of costs taxed by the Superintendent Clarkes, not towards the Cause.</p>
+            <p>That in respect of the small charges allowed to bee pay'd for contempts of the Court, and the want of due punishment of the contemners thereof, the Court is very often abused and vili<g ref="char:EOLhyphen"/>fied, and the Suitors much delayed and prejudiced; the costs upon contempts being nothing neere so much as the Client is out of Purse.</p>
+            <p n="18">18. THAT the costs bee raised, and a certaine Fine lay'd on every severall contempt, according to the na<g ref="char:EOLhyphen"/>ture thereof, and one halfe to goe to the Prosecutor, and the other to the Poore of the Parish, where the Partie in contempt lives.</p>
+            <p n="19">19. THAT For the perfecting of these severall <hi>Propo<g ref="char:EOLhyphen"/>salls,</hi> and rectifying of the abuses herein befor re<g ref="char:EOLhyphen"/>cited; There may bee some Persons, well affected to the Pub<g ref="char:EOLhyphen"/>lique,
+<pb n="27" facs="tcp:165545:14"/> not ingaged in the upholding of the present oppressions of the said Court, may bee chosen and appointed, out of the se<g ref="char:EOLhyphen"/>verall Offices thereto belonging, to represent, and certifie all the abuses of the said Court, and a way whereby the same may bee remedied; That thereupon the People of this Nation may re<g ref="char:EOLhyphen"/>cieve, at last, some fruits of their constant prayers, hazards, and adventures, for Vindication of the Rights, Freedomes, and Li<g ref="char:EOLhyphen"/>berties of the Free-borne People of this <hi>Common-Wealth.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="introduction">
+            <p>HERE followeth a <hi>Table</hi> of <hi>Fees,</hi> conteyning, in the first <hi>Colume,</hi> the Great Exacted<hi>-Fees,</hi> which the Grand and Head-<hi>Officers</hi> belonging to the <hi>Chancery</hi> doe take from the <hi>Common-wealth,</hi> in every <hi>Cause;</hi> for which they take no pains at all, save only attending to Receive them. The second <hi>Co<g ref="char:EOLhyphen"/>lume,</hi> how little thereof the <hi>Clearks</hi> and <hi>Labourers</hi> (that doe all the Service) have thereout; to mainteine themselves, their wives and families. The third <hi>Colume,</hi> how much will satisfie the true Labourers to doe all the businesse. And the fourth <hi>Colume,</hi> how much thereby, out of every <hi>Fee</hi> may bee saved to the <hi>Common-wealth,</hi> and Particularly to all Parties, <hi>Plaintiffs</hi> and <hi>Defendants,</hi> in the said <hi>Court,</hi> with far more facilitie, and quicker dispatch of their businesse.</p>
+         </div>
+         <div type="table">
+            <pb facs="tcp:165545:15"/>
+            <head>THE TABLE.</head>
+            <p>
+               <table>
+                  <head>Tthe Six-Clearks-Office, worth <hi>2000. l. per annum</hi> a peece, and upwards.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>The Six-Clarks Fees.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>How little thereof the under-Clark hath</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>What will content the Labourer.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>What will be saved to the Cōmon Wealth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>FOR all Copies of Bills, Answeres, and other Pleadings, for every Lease (contayning fifteene lines) <hi>per fol.</hi>
+                     </cell>
+                     <cell>0 l. 0 s. 8 d.</cell>
+                     <cell>0 s. 2 d.</cell>
+                     <cell>0 s. 4 d.</cell>
+                     <cell>0 s. 4 d.</cell>
+                  </row>
+                  <row>
+                     <cell>For every Attachment with Proclamation and the Seale.</cell>
+                     <cell>0. 2. 10.</cell>
+                     <cell>0. 10.</cell>
+                     <cell>1. 8.</cell>
+                     <cell>1. 2.</cell>
+                  </row>
+                  <row>
+                     <cell>For every Commission of Rebellion, besides the Hamper, Signiture, Entry, Inrollment and other Fees</cell>
+                     <cell>0. 8. 0.</cell>
+                     <cell>2. 8.</cell>
+                     <cell>4. 8.</cell>
+                     <cell>3. 4</cell>
+                  </row>
+                  <row>
+                     <cell>For every <hi>Dedimus Potestat.</hi>
+                     </cell>
+                     <cell>0. 7. 10.</cell>
+                     <cell>1. 8.</cell>
+                     <cell>4. 6.</cell>
+                     <cell>3. 4</cell>
+                  </row>
+                  <row>
+                     <cell>For every ingros'd Bill, formerly there was paid to the Clarke 6. d. <hi>per fol.</hi> be<g ref="char:EOLhyphen"/>ing the maine and only subsistence hee had to live upon, which if tak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n away no Clerke can subsist without a confirmation of this Table and an advancing of the Fee of the <hi>Dedimus Potestat.</hi> which in the Chequer is 18. s. 4. d. and the ingros'd Bill paid for neverthelesse, and may upon the establishing this Table bee reduced to 4. d. <hi>per fol.</hi> or lesse, or absolutely abolished, so the <hi>Dedimus</hi> Fee bee raised accordingly.</cell>
+                     <cell>0. 0. 0.</cell>
+                     <cell>0. 6.</cell>
+                     <cell>0. 4.</cell>
+                     <cell>0. 2.</cell>
+                  </row>
+                  <row>
+                     <cell>For every Commission to examine W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tnesses.</cell>
+                     <cell>0. 7. 10.</cell>
+                     <cell>1. 8.</cell>
+                     <cell>4. 6.</cell>
+                     <cell>3. 4.</cell>
+                  </row>
+                  <row>
+                     <cell>For every Writ of Execution of an Order of Court.</cell>
+                     <cell>0. 7. 10.</cell>
+                     <cell>1. 8.</cell>
+                     <cell>4. 6.</cell>
+                     <cell>3 4.</cell>
+                  </row>
+                  <row>
+                     <cell>For drawing and inrolling every Decree, and every Dismission, formerly 1. l. 13. s. 4. d. but farre better if 12. d. <hi>per fol.</hi> drawing and inrolling, which i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> the most certaine and ind<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>fferent way for the Clarke and Client, and not in<g ref="char:EOLhyphen"/>grosse as formerly.</cell>
+                     <cell>1. 13. 4.</cell>
+                     <cell>6. 8.</cell>
+                     <cell>15. 4</cell>
+                     <cell>18. 0.</cell>
+                  </row>
+                  <row>
+                     <cell>For every Writ of Execution of a Decree, <hi>per skinne</hi>
+                     </cell>
+                     <cell>1. 6. 8.</cell>
+                     <cell>6. 8</cell>
+                     <cell>15. 8.</cell>
+                     <cell>15. 6.</cell>
+                  </row>
+                  <row>
+                     <cell>For every Exemplification of a Record, which comes but seldome, <hi>per skinne</hi>
+                     </cell>
+                     <cell>1. 6. 8.</cell>
+                     <cell>6. 8</cell>
+                     <cell>15. 8.</cell>
+                     <cell>15. 6.</cell>
+                  </row>
+                  <row>
+                     <cell>For drawing and ingrossing every Injunction, besides Signiture, Inrolling and other Fees, which may bee spared.</cell>
+                     <cell>0. 23. 4.</cell>
+                     <cell>3. 4</cell>
+                     <cell>6. 6.</cell>
+                     <cell>6. 8.</cell>
+                  </row>
+                  <row>
+                     <cell>For every <hi>Supersedeas, Cerciorar. Proc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dend. Habeas Corpus,</hi> and such other sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>all Writs, which happen but seldome, besides Signiture.</cell>
+                     <cell>0. 6. 8.</cell>
+                     <cell>1. 8</cell>
+                     <cell>3. 4</cell>
+                     <cell>3. 4.</cell>
+                  </row>
+                  <row>
+                     <cell>For the writing of every Pattent, which is great confirmation <hi>Innotessimus, Ex ecutorie,</hi> Speciall License, Speciall Commission, <hi>Pardon. de infortun. &amp; S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>defendendo, Duplicat Constat.</hi> or other speciall Graunts and Pattents, sel<g ref="char:EOLhyphen"/>dome used, <hi>per skinne,</hi>
+                     </cell>
+                     <cell>1. 6. 8.</cell>
+                     <cell>6. 8.</cell>
+                     <cell>15. 8.</cell>
+                     <cell>15. 6.</cell>
+                  </row>
+                  <row>
+                     <cell>For the filing of every Bill, every Appearance.</cell>
+                     <cell>0. 3. 4.</cell>
+                     <cell rows="3">
+                        <hi>Out of all which Fees the Clark hath nothing.</hi>
+                     </cell>
+                     <cell rows="3" cols="2">
+                        <hi>Which being paid to the Superintendent Clarke for keeping filing the Re<g ref="char:EOLhyphen"/>cords and attending the Court to certifie them of all the proceedings of the Office, will bee a suffi<g ref="char:EOLhyphen"/>cient reward, and may amount to</hi> 4 <hi>or</hi> 500. l. per annum, <hi>at least, and will spare the Common-wealth (in a due, quick, regular and cheap dispatch of their businesse) many thousand pounds: if but two Superintendent Clarkes bee appointed, which really will bee sufficient, then the</hi> 3. s. 4. d. <hi>will bee more then sufficient for them, and may bee divided betwixt them and the Clarkes, or Attorneys in each Office, which indeed is the best way, and will bee a good encouragement for the practising Attorneys (now called practising Clarkes) to manage their Clients Causes and spare them many a solicitos Fee, now payed.</hi>
+                        <note n="[*]" place="bottom">The severall Labours, Troubles and Ex<g ref="char:EOLhyphen"/>pences of the <hi>Clearks</hi> in the <hi>Six-Clearks</hi> Office; for which (by the present Table of Fees, or from the <hi>Six-Clearks</hi>) they have no certain Fee or alowance at all; (though they were formerly rewarded, by their Pre<g ref="char:EOLhyphen"/>decessors, with Chamber-rent and Diet) Tendred to the Consideration of the honourable-<hi>Committee,</hi> for such alowance therein as to their Judgements shall seem meete.</note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>For every Certificat of any Proceedings of the Court.</cell>
+                     <cell>0. 3. 4.</cell>
+                  </row>
+                  <row>
+                     <cell>Out of every Cause while it is Depending in Court (though nothing done by him for it) every Terme.</cell>
+                     <cell>0. 3. 4.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Fees of the <hi>Inrollment-Office</hi> (worth <hi>1000.</hi> l. <hi>per an.</hi> and upward) demanded by the <hi>Six-Clearks,</hi> and three Mrs. of the <hi>Petti-bag,</hi> by colour of a <hi>Patent</hi> or <hi>Charter</hi> from the <hi>King.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>The Mr's. Fee.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>How little thereof the Clark hath</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>What will content the labourer.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>What will bee saved.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>FOR every Roll.</cell>
+                     <cell>0. 10. 0.</cell>
+                     <cell>2. 0</cell>
+                     <cell>5. 0.</cell>
+                     <cell>5. 0.</cell>
+                  </row>
+                  <row>
+                     <cell>For every Recognizance</cell>
+                     <cell>0. 2. 0.</cell>
+                     <cell>0. 0.</cell>
+                     <cell>1. 0.</cell>
+                     <cell>1. 0.</cell>
+                  </row>
+                  <row>
+                     <cell>For every Exemplification; <hi>per skinne</hi>
+                     </cell>
+                     <cell>1. 6. 8.</cell>
+                     <cell>6. 8.</cell>
+                     <cell>13. 4.</cell>
+                     <cell>13. 4.</cell>
+                  </row>
+                  <row>
+                     <cell>For every <hi>Scire Facias.</hi>
+                     </cell>
+                     <cell>0. 5. 0.</cell>
+                     <cell>1. 0.</cell>
+                     <cell>2. 6.</cell>
+                     <cell>2. 6.</cell>
+                  </row>
+                  <row>
+                     <cell>For every Cancell<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tion.</cell>
+                     <cell>0. 3. 4.</cell>
+                     <cell>1. 4.</cell>
+                     <cell>2. 4.</cell>
+                     <cell>1. 0.</cell>
+                  </row>
+                  <row>
+                     <cell>For every <hi>Dedimus Potestat.</hi>
+                     </cell>
+                     <cell>0. 10. 0.</cell>
+                     <cell>2. 0.</cell>
+                     <cell>5. 0.</cell>
+                     <cell>5. 0.</cell>
+                  </row>
+                  <row>
+                     <cell>For every Copy of Indenture or Recognizance. <hi>per sheete</hi>
+                     </cell>
+                     <cell>0. 0. 8</cell>
+                     <cell>0. 2.</cell>
+                     <cell>0. 4.</cell>
+                     <cell>0. 4.</cell>
+                  </row>
+                  <row>
+                     <cell>For every search in old Bookes.</cell>
+                     <cell>0. 1. 0.</cell>
+                     <cell>0. 4.</cell>
+                     <cell>0. 8.</cell>
+                     <cell>0. 4.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Paid to the <hi>Mr.</hi> of the <hi>Rolls.</hi> over and above the said Fees.</head>
+                  <row>
+                     <cell>FOr every Deede, Recognizance or other writing Inrolled.</cell>
+                     <cell>0. 2. 0.</cell>
+                     <cell rows="4" cols="3">
+                        <hi>Out of which fees the Clarks</hi> (3 <hi>in nū<g ref="char:EOLunhyphen"/>ber) have not</hi> (communibus annis, <hi>for the maintenance of themselves, wives &amp; families) above</hi> 40. l. per an. <hi>a peece.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>For every Exemplification.</cell>
+                     <cell>0. 6. 8.</cell>
+                  </row>
+                  <row>
+                     <cell>For every Cancellation.</cell>
+                     <cell>0. 6. 8.</cell>
+                  </row>
+                  <row>
+                     <cell>For Signing every Commission.</cell>
+                     <cell>0. 1. 0.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Examiners-Office (worth <hi>2000. l. per annum</hi> a peece.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>The head Exa<g ref="char:EOLhyphen"/>miners Fees.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>The Depu<g ref="char:EOLhyphen"/>ty Cl. Fee.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>What will content.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>What will be saved</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>FOR the Examina<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ion of every Examinant.</cell>
+                     <cell>0. 2. 6.</cell>
+                     <cell>0. 0.</cell>
+                     <cell>1. 6</cell>
+                     <cell>1. 0.</cell>
+                  </row>
+                  <row>
+                     <cell>For Copies of all Depositions, Examinations and Interrogatories; for every sheete containing fifteene lines, 1. s. <hi>per fol.</hi> which in one Cause hath come to 30. or 40. l. and some more.</cell>
+                     <cell>0. 1. 0.</cell>
+                     <cell>0. 2.</cell>
+                     <cell>0. 4.</cell>
+                     <cell>0. 8.</cell>
+                  </row>
+                  <row>
+                     <cell>For search and their hands to the Copies of any Examinations to bee certified to another Court.</cell>
+                     <cell>0. 6. 8</cell>
+                     <cell>0. 0.</cell>
+                     <cell>1. 8</cell>
+                     <cell>5. 0.</cell>
+                  </row>
+                  <row>
+                     <cell>For the Exemplification of all Depositions and Examinations after the rate of e<g ref="char:EOLhyphen"/>very <hi>skinne.</hi>
+                     </cell>
+                     <cell>1. 6. 8</cell>
+                     <cell>6. 8.</cell>
+                     <cell>15. 8.</cell>
+                     <cell>15. 6.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>The</hi> Subpenna-Office, <hi>worth</hi> 3 <hi>or</hi> 4000 l. per annum.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>The Fees now paid.</hi>
+                     </cell>
+                     <cell role="label" rows="5">
+                        <hi>The</hi> 3 <hi>Cl. that make all these</hi> Sub-poen. <hi>get not a<g ref="char:EOLhyphen"/>bove</hi> 40. l. p. an. <hi>each.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>What will content.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>What will bee saved.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell rows="2">FOR every <hi>Subpoena, Ad comparend. Solvend. Miss. Re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ungend. Audi<g ref="char:EOLhyphen"/>end. Judic.</hi> 2 s. 6. d. if but one or two names, if three names 3. s.</cell>
+                     <cell>0. 2. 6.</cell>
+                     <cell> </cell>
+                     <cell>1. 0.</cell>
+                  </row>
+                  <row>
+                     <cell>0. 3. 0.</cell>
+                     <cell>1. 0.</cell>
+                     <cell>1. 8</cell>
+                  </row>
+                  <row>
+                     <cell>For every <hi>Subpoena</hi> of <hi>Ducens tecum</hi> or grounded on any Order of Court.</cell>
+                     <cell>0. 6. 8.</cell>
+                     <cell>3. 4</cell>
+                     <cell>3. 4.</cell>
+                  </row>
+                  <row>
+                     <cell>For every renued <hi>Subpoena.</hi>
+                     </cell>
+                     <cell>0. 1. 6.</cell>
+                     <cell>0. 6</cell>
+                     <cell>1. 0.</cell>
+                  </row>
+                  <row>
+                     <cell>If at the fault of the Clearke it is renued 6. d. though in consciance no<g ref="char:EOLhyphen"/>thing should bee paid.</cell>
+                     <cell>0. 0. 6.</cell>
+                     <cell> </cell>
+                     <cell>0. 0</cell>
+                     <cell>0. 6.</cell>
+                  </row>
+                  <row>
+                     <cell cols="5">
+                        <hi>This Office being a Monopolie, and very chargeable and unnecessary, is desired to bee taken away, and the twelve Attorneys in each Office, now called practising Clearkes, or so many more as shall bee thought necessary to dispatch the Clients businesse, may hereafter every one make</hi> Subpoenaes <hi>for his owne proper Client; which if granted (as in reason it connot bee denyed) will bee of much advantage to the Common-Wealth.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>
+                     <hi>The</hi> Registers-Office <hi>worth</hi> 3000. l. per annum <hi>and upward.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>The head Regi<g ref="char:EOLhyphen"/>sters Fees.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>The Depu<g ref="char:EOLhyphen"/>ties Fees.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>What will suffice him</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>What will bee saved.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>FOR taking of every Order in Court and drawing it up, for every side of a leafe loosely written. <hi>long &amp; shoro.</hi>
+                     </cell>
+                     <cell>0. 3. 0.</cell>
+                     <cell>1. 0.</cell>
+                     <cell>2. 0.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For entring every Order, for every side of a leafe of Paper.</cell>
+                     <cell>0. 0. 6.</cell>
+                     <cell>0. 6.</cell>
+                     <cell>0. 6.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For Drawing of all Decretall Orders, Dismissions and Decretall Or<g ref="char:EOLhyphen"/>ders by consent after the rate of 6. s. a side, for an extraordinary Fee of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he Decree.</cell>
+                     <cell>0. 6. 0.</cell>
+                     <cell>2. 0. <hi>and</hi> 3. 4.</cell>
+                     <cell>4. 0.</cell>
+                     <cell rows="2">
+                        <hi>Which wil save many hundred pounds.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>For entring the same, for every side of a leafe.</cell>
+                     <cell>0. 1. 0.</cell>
+                     <cell>1. 0.</cell>
+                     <cell>1. 0.</cell>
+                  </row>
+                  <row>
+                     <cell>The entring of every Attachment, if it bee thought needfull to bee entred.</cell>
+                     <cell>0. 0. 2.</cell>
+                     <cell>0. 2.</cell>
+                     <cell>0. 2.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The entring of every Rule of Publication, Commissions, &amp;c. if needfull, for each of them.</cell>
+                     <cell>0. 0. 4.</cell>
+                     <cell>0. 2.</cell>
+                     <cell>0. 2.</cell>
+                     <cell>0. 2.</cell>
+                  </row>
+                  <row>
+                     <cell>For carrying every Decree to the Lord Chancellor, Lord Keeper, or Court to be Signed.</cell>
+                     <cell>0. 5. 0</cell>
+                     <cell>5. 0.</cell>
+                     <cell>2. 0.</cell>
+                     <cell>3. 0</cell>
+                  </row>
+                  <row>
+                     <cell>For carrying every Dismission to bee Signed.</cell>
+                     <cell>0. 5. 0.</cell>
+                     <cell>5. 0.</cell>
+                     <cell>2. 0.</cell>
+                     <cell>3. 0</cell>
+                  </row>
+                  <row>
+                     <cell>For all Certificats 12.d. besides the writing thereof 6.d.</cell>
+                     <cell>0. 1. 6.</cell>
+                     <cell>0. 6.</cell>
+                     <cell>1. 0.</cell>
+                     <cell>0. 6.</cell>
+                  </row>
+                  <row>
+                     <cell>For entring all Pleas and Demurres in the Registers Book to be heard of course.</cell>
+                     <cell>0. 1. 0.</cell>
+                     <cell>1. 0.</cell>
+                     <cell>0. 4.</cell>
+                     <cell>0. 8.</cell>
+                  </row>
+                  <row>
+                     <cell>For all Copies of Reports, O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ders, &amp;c. 6.d. every side, and 12.d. the Registers hand for the first side, and 6. d. the side every side after.</cell>
+                     <cell>0. 1. 6.</cell>
+                     <cell> </cell>
+                     <cell>1. 6.</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Fees of the <hi>Affidavit-Office,</hi> worth <hi>200.l. per an.</hi> and upwards.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>The Mr's. Fee.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>The Clarks Fee.</hi>
+                     </cell>
+                     <cell role="label" cols="2">
+                        <hi>This Offi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e being a grand Monopolie as well as the</hi> Subpoena <hi>Office; is desired to bee taken away, and the Superintendent Clarke to file all Affidavits</hi> gratis, <hi>in good order, and keepe an alphabet thereof; and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ach Clarke to copie hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> owne, or his Adversaries Clients Affidavits for</hi> 4.d. per fol. <hi>and the Superintendent Clark fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> his Tearmly Fee to make all Certificats</hi> gratis; <hi>which will save much trouble and expence to every Client, and will bee a speedy way of disptatch, and they not bee forced to attend severall dayes and pay great Fees as forme<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ly.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>FOR filing every Affid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vit.</cell>
+                     <cell>0. 0. 8.</cell>
+                     <cell>0. 4.</cell>
+                  </row>
+                  <row>
+                     <cell>For Copies thereof, for every side wide and loosely written.</cell>
+                     <cell>0. 0. 4.</cell>
+                     <cell>0. 2.</cell>
+                  </row>
+                  <row>
+                     <cell>For a hand thereto.</cell>
+                     <cell>0. 1: 0.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For all Certificats a piece.</cell>
+                     <cell>0. 1. 0.</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>The Cursitors Office, worth in all <hi>10000.</hi>l. <hi>p. an.</hi> &amp; upward.</head>
+                  <row>
+                     <cell>FOR all Writs whatsoever of any Debt or Damages there was formerly paied for a Fine after the rate of 10.s. in every 100.l.</cell>
+                     <cell> </cell>
+                     <cell cols="3">
+                        <hi>This being a great grievance and oppression, and set on foote in the former times of Monopolies; is humbly desired to bee quite taken away.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>For every <hi>Dedimas Potestat.</hi> to leavy a Fine formerly there was paied 1.l. 4.s. 4.d. and more, which being an unreasonable Fee, is desired to bee reduced to</cell>
+                     <cell>0. 6. 8.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For all other ordinary Writs, for Actions of Debt and Trespasse there was formerly paid for making and the Seale 1.s. which is but reasonable to bee continued where the number of Defendants did not exceede foure, if more,</cell>
+                     <cell>0. 1. 6.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For all other Writs upon Actions on the Case and other speciall Writs there was formerly paid for some 2.s. 6.d. others 6.s. 8.d. and others more, according to the quality of the Action, which happeneth but seldome, and being very difficult they ought to receive the more, which may be but reasonable to be continued</cell>
+                     <cell>0. 2. 6.</cell>
+                     <cell cols="3">
+                        <hi>Unlesse the Fees of all those speciall Writs may bee reduced to</hi> 2.s. 6.d. <hi>a piece; which if so, the ordinary Writs must bee raised accordingly, else the imployment will not afford a meane and reasonable maintenance.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p n="1">1. THE bespeaking of all <hi>Subpoenaes,</hi> of what na<g ref="char:EOLhyphen"/>ture or qualitie soever they be.</p>
+            <p n="2">2. T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Filing of all Bills, and Bundling of all Re<g ref="char:EOLhyphen"/>cords, and entring of them.</p>
+            <p n="3">3. The wayting on the Register, for drawing up co<g ref="char:EOLhyphen"/>pies of Orders, and to assist the Client therein.</p>
+            <p n="4">4. The attending upon the Masters, to see the De<g ref="char:EOLhyphen"/>fendants sworne, and all other Oathes taken by them.</p>
+            <p n="5">5. The answering and directing of all Clients, as to the merrits of the Cause, and all other Proceedings.</p>
+            <p n="6">6. The making of all Bills of Costs, and seeing them entred with the Register, the Taxing them with the <hi>Ma<g ref="char:EOLhyphen"/>ster,</hi> and seeing them Entred in the House-book.</p>
+            <p n="7">7. The entring of all Attachments in the House-book, the Six-Clearks-book, and the Register.</p>
+            <p n="8">8. The wayting on the Examiner to see and direct Witnesses to bee regularly-Examined, and to give no<g ref="char:EOLhyphen"/>tice to the Clyent when Witnesses are Examined against them.</p>
+            <p n="9">9. The Wayting and Attending on Councell as oc<g ref="char:EOLhyphen"/>casion doth require, in the absence of the Sollicitors.</p>
+            <p n="10">10. The attending the Hearing of the Clients Cause, before the <hi>Six-Clearks,</hi> the <hi>Masters,</hi> the <hi>Master of the Rolls</hi> and at <hi>Westminster.</hi>
+            </p>
+            <p n="11">11. The drawing of all Decrees, Dismissions, spe<g ref="char:EOLhyphen"/>ciall-Commissions, Injunctions, and other speciall Writts; The many Fees being taken by the <hi>Six-Clearks,</hi> and the Clearks allowances taken away by the late Lord <hi>Coventries</hi>-Table, which Table was procured by the <hi>Six-Clearks.</hi>
+            </p>
+            <p n="12">12. The Examining of all Copies of Pleadings, Decrees, Dismissions, and all other speciall-Writts, Inrollments of all Patents, passing the Great-Seale; Extreats and Inrollment of Decrees, Sheriffes-Patents, their Oathes and Recognizances into <hi>Wales,</hi> and divers o<g ref="char:EOLhyphen"/>ther places.</p>
+            <p n="13">13 The finding the <hi>Six Clearke</hi> with Paper, Inke, Parchment and Candle, in the dispatch of the Businesse of the Office; all except that worthy Gentleman <hi>Ma<g ref="char:EOLhyphen"/>ster Pinder,</hi> where Paper and Inke is only found by him.</p>
+            <p n="14">14. Their daily attendance on the Court, and the bu<g ref="char:EOLhyphen"/>sinesse of the Office, neglecting of their Private occasions to serve the Publique.</p>
+            <p n="15">15. The entring of all Rules in the House-book, <hi>Six-Clearks</hi>-book, and the <hi>Registers</hi> Office.</p>
+            <p n="16">16. The keeping of Filing-books, Rule books and notes of <hi>Subpoenaes,</hi> and making of Docquets of Commissi<g ref="char:EOLhyphen"/>ons of Rebellion.</p>
+            <p n="17">17. The giving the Clients notice upon all Orders, Rules and other Proceedings in Court, and in the Office.</p>
+            <p n="18">18. For joyning in Commissions, and Entring the same.</p>
+            <p n="19">19. The laying out of monies for the Client, in all Offices, and trusting them for re-payment thereof, which of necessitie they must doe in their absence, in re<g ref="char:EOLhyphen"/>spect of their trust in them, as men from whom only they expect an Account of their Businesse, and also for Letters to Carriers and Posts, and to porters, too and again, upon all occasions.</p>
+            <p>
+               <hi>These Paines, Labours, Hazards and Expences (being un<g ref="char:EOLhyphen"/>deniably true) are humbly submitted to the grave-Considera<g ref="char:EOLhyphen"/>tion aforesaid.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
